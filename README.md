@@ -20,7 +20,7 @@ git clone https://github.com/Manii899/To-do-.git
 
 
 Navigate to the project directory:
-cd taskie
+cd to-do-
 
 
 Install dependencies:
