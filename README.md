@@ -16,7 +16,7 @@ Installation
 
 
 Clone the repository:
-git clone https://github.com/yourusername/taskie.git
+git clone https://github.com/Manii899/To-do-.git
 
 
 Navigate to the project directory:
