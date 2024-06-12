@@ -1,16 +1,58 @@
-# todo_app
+Taskie
+Taskie is a Flutter-based mobile application that allows users to manage their tasks efficiently. Users can add, update, and search for tasks with ease. This app demonstrates the use of CRUD (Create, Read, Update, Delete) operations in a Flutter environment.
 
-A new Flutter project.
+Features
+Add Tasks: Easily add new tasks to your task list.
+Update Tasks: Update existing tasks to reflect changes or mark them as completed.
+Search Tasks: Quickly find tasks using the search functionality.
+User-Friendly UI: Clean and intuitive user interface for seamless task management.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots
+![Screenshot 2024-06-12 at 6 23 59 PM](https://github.com/Manii899/To-do-/assets/101738227/e28c0427-62db-4db9-b82c-dda4d335be03)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Clone the repository:
+git clone https://github.com/yourusername/taskie.git
+
+
+Navigate to the project directory:
+cd taskie
+
+
+Install dependencies:
+flutter pub get
+
+
+Run the app:
+flutter run
+
+
+
+
+Usage
+Add a Task:
+
+Click on the 'Add' button.
+Enter the task details.
+Save the task.
+Update a Task:
+
+
+Select the task you want to update.
+Modify the task details.
+Save the changes.
+
+
+Contributing
+Contributions are welcome! Please follow these steps:
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any questions or feedback, please contact [your email or GitHub profile].
+
